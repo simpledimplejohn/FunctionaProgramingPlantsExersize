@@ -2,7 +2,7 @@
 ### by [John Blalock](https://github.com/simpledimplejohn) 
 
 ### __Description__
-This app uses functional programing 
+This app uses functional programing to add water to a plant object using only closure functions, no methods are used and no states are changed except for the counter.  Notes included in the comments
 
 ### __Technologies Used__
 
@@ -19,6 +19,9 @@ This app uses functional programing
 2. _Navigate to the `/js` folder_
 3. _Choose the exercise you want to run_
 4. _In the console run `node {exerciseFile.js}`_
+5. _To launch the web app launch the Index.html file in your code editor_
+6. _Navigate to your local host example: `127.0.0.1:5500/Index.html`
+
 
 
 ### __Known Bugs / Future Goals__
